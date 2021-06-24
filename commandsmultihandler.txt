@@ -1,0 +1,3 @@
+run post/windows/manage/migrate
+run post/windows/manage/killav
+run post/windows/gather/checkvm

